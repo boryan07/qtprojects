@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>icons8-выключить-звук-96.png</file>
+        <file>icons8-громкий-звук-96.png</file>
+        <file>icons8-конец-96.png</file>
+        <file>icons8-минус-2-96.png</file>
+        <file>icons8-пауза-в-кружке-96.png</file>
+        <file>icons8-перейти-в-начало-96.png</file>
+        <file>icons8-перемешать-80.png</file>
+        <file>icons8-перемешать-96.png</file>
+        <file>icons8-плюс-2-96.png</file>
+        <file>icons8-повторение-96.png</file>
+        <file>play.png</file>
+    </qresource>
+</RCC>
